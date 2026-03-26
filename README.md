@@ -165,7 +165,5 @@ Word-Masters/
 # 🔗 Project Preview
 
 -- GitHub Repository:
-https://github.com/Shashank07-debug/Word_Masters
+https://github.com/manjulasurve21/word_puzzle
 
--- Live Demo (GitHub Pages):
-https://shashank07-debug.github.io/Word_Masters/
